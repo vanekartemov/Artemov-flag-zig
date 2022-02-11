@@ -1,0 +1,20 @@
+.Orange {
+	background-color: orange;
+	height: 180px;
+	width: 900px;
+	border: 5px double orange;
+}	
+
+.Green {
+	background-color: green;
+	height: 180px;
+	width: 900px;
+	border: 5px double green;
+}
+
+.Red {
+	border: 5px double red;
+	background-color: red;
+	height: 180px;
+	width: 900px;
+}
