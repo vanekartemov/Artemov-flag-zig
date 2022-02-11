@@ -1,0 +1,2 @@
+# Artemov-flag-zig
+prikol
